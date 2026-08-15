@@ -1,0 +1,93 @@
+[
+  {
+    "tmdb_id": 256040,
+    "title": "Baahubali: The Beginning",
+    "year": 2015,
+    "language": "te",
+    "verification": "Hindi dubbed version verified"
+  },
+  {
+    "tmdb_id": 579974,
+    "title": "RRR",
+    "year": 2022,
+    "language": "te",
+    "verification": "Hindi audio verified"
+  },
+  {
+    "tmdb_id": 564147,
+    "title": "K.G.F: Chapter 1",
+    "year": 2018,
+    "language": "kn",
+    "verification": "Hindi audio verified"
+  },
+  {
+    "tmdb_id": 587412,
+    "title": "K.G.F: Chapter 2",
+    "year": 2022,
+    "language": "kn",
+    "verification": "Hindi audio verified"
+  },
+  {
+    "tmdb_id": 690957,
+    "title": "Pushpa: The Rise",
+    "year": 2021,
+    "language": "te",
+    "verification": "Hindi audio verified"
+  },
+  {
+    "tmdb_id": 857598,
+    "title": "Pushpa 2: The Rule",
+    "year": 2024,
+    "language": "te",
+    "verification": "Hindi audio verified"
+  },
+  {
+    "tmdb_id": 858485,
+    "title": "Kantara",
+    "year": 2022,
+    "language": "kn",
+    "verification": "Hindi dubbed version verified"
+  },
+  {
+    "tmdb_id": 1118224,
+    "title": "Maharaja",
+    "year": 2024,
+    "language": "ta",
+    "verification": "Hindi audio verified"
+  },
+  {
+    "tmdb_id": 949229,
+    "title": "Leo",
+    "year": 2023,
+    "language": "ta",
+    "verification": "Hindi dubbed version verified"
+  },
+  {
+    "tmdb_id": 801688,
+    "title": "Kalki 2898-AD",
+    "year": 2024,
+    "language": "te",
+    "verification": "Hindi audio verified"
+  },
+  {
+    "tmdb_id": 811941,
+    "title": "Devara: Part 1",
+    "year": 2024,
+    "language": "te",
+    "verification": "Hindi audio verified"
+  },
+  {
+    "tmdb_id": 657644,
+    "title": "Minnal Murali",
+    "year": 2021,
+    "language": "ml",
+    "verification": "Netflix Hindi audio"
+  },
+  {
+    "tmdb_id": 1084812,
+    "title": "Aavesham",
+    "year": 2024,
+    "language": "ml",
+    "verification": "JioHotstar Hindi audio"
+  }
+]
